@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Video Downloader",
+    "description": "Download YouTube videos.",
+    "version": "1.0",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "MAN GAMING.png",
+        "48": "MAN GAMING.png",
+        "128": "MAN GAMING.png"
+      }
+    },
+    "icons": {
+      "16": "MAN GAMING.png",
+      "48": "MAN GAMING.png",
+      "128": "MAN GAMING.png"
+    }
+  }
+  
